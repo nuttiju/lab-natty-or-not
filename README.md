@@ -1,4 +1,4 @@
-Podcast: Impacto das Redes Sociais e IA na Saúde Mental 🎙️
+<h1>Podcast: Impacto das Redes Sociais e IA na Saúde Mental 🎙️</h1>
 
 📒 Descrição
 Este podcast de 2:30 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
@@ -15,4 +15,4 @@ O episódio fala sobre o impacto das redes sociais e da inteligência artificial
 💭 Reflexão
 O projeto destacou a importancia de termos um equilibrio no uso das redes sociais e usar as ferramentas disponiveis para beneficio próprio.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](ElevenLabs_2024-05-22T10_30_19_Rachel_pre_s50_sb75_se0_b_m2.mp3)
